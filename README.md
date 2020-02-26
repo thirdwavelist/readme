@@ -1,2 +1,1 @@
-# readme
-General repository for storing decision, news, logs around the ThirdWaveList organization
+Please see the [wiki](https://github.com/thirdwavelist/readme/wiki) for now.
